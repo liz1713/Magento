@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magento/app/design/frontend/Templatemonster/theme/web/js/theme.js
