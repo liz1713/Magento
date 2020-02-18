@@ -28,7 +28,7 @@ atlassian*
 /README_EE.md
 /php.ini.sample
 
-
+/pub/media/*
 !/pub/media/.htaccess
 /pub/media/catalog/*
 !/pub/media/catalog/.htaccess
