@@ -13,7 +13,7 @@ return [
                 'host' => 'localhost',
                 'dbname' => 'database',
                 'username' => 'root',
-                'password' => 'root',
+                'password' => 'pass01',
                 'active' => '1'
             ]
         ]

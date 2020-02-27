@@ -3045,3 +3045,4 @@
 [2020-02-20 19:21:11] main.INFO: Add of item with id Yotpo_Yotpo::yotpo_reviews_external was processed [] []
 [2020-02-20 19:21:11] main.INFO: Add of item with id Yotpo_Yotpo::yotpo_analytics_external was processed [] []
 [2020-02-20 19:22:39] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 10000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2020-02-20 21:21:42] main.ERROR: The specified path is not allowed. [] []
